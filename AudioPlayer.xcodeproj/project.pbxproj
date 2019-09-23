@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96008B4223321B58005E5675 /* Johann_Sebastian_Bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96008B4123321B58005E5675 /* Johann_Sebastian_Bach.jpg */; };
 		9632ADC3233210C900570949 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9632ADC2233210C900570949 /* AppDelegate.swift */; };
 		9632ADC5233210C900570949 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9632ADC4233210C900570949 /* ViewController.swift */; };
 		9632ADC8233210C900570949 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9632ADC6233210C900570949 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		96008B4123321B58005E5675 /* Johann_Sebastian_Bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Johann_Sebastian_Bach.jpg; sourceTree = "<group>"; };
 		9632ADBF233210C900570949 /* AudioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9632ADC2233210C900570949 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9632ADC4233210C900570949 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				9632ADC2233210C900570949 /* AppDelegate.swift */,
 				9632ADC4233210C900570949 /* ViewController.swift */,
 				9632ADC6233210C900570949 /* Main.storyboard */,
+				96008B4123321B58005E5675 /* Johann_Sebastian_Bach.jpg */,
 				9632ADD4233212DB00570949 /* sheep.mp3 */,
 				9632ADC9233210CB00570949 /* Assets.xcassets */,
 				9632ADCB233210CB00570949 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				9632ADD5233212DB00570949 /* sheep.mp3 in Resources */,
 				9632ADCD233210CB00570949 /* LaunchScreen.storyboard in Resources */,
+				96008B4223321B58005E5675 /* Johann_Sebastian_Bach.jpg in Resources */,
 				9632ADCA233210CB00570949 /* Assets.xcassets in Resources */,
 				9632ADC8233210C900570949 /* Main.storyboard in Resources */,
 			);
